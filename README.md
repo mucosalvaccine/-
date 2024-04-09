@@ -94,7 +94,7 @@
 </head>
 <body>
     <header>
-        <img src="299815098_382893934015267_1476765749098205993_n.jpg" alt="Mucosal vaccine Logo" width="200">
+        <img src="000.jpg" alt="Mucosal vaccine Logo" width="200">
         <h1>Welcome to Mucosal vaccine™</h1>
     </header>
     <nav>
